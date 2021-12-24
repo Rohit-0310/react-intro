@@ -36,7 +36,8 @@ function App() {
             <li style={{
                 color: "black",
                 fontSize: "15px",
-                paddingLeft: "30px",                
+                paddingLeft: "30px", 
+                
             }}
             >{e}</li>
         ))}
